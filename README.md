@@ -1,4 +1,5 @@
 # Linear-Regression
+## Linear-Regression with one variable.
 ### steps:
 #### 1. Select features which lead us to our `Price`.
 * For predicting `Price` in our dataset, we need to consider 1 feature from our dataset to deal with.
@@ -21,3 +22,5 @@
 #### 6. Predict `Price` values . 
 * with X_test data and theta using the hypothesis function we can predict our `Price` and compare it with our Y_test.
 
+## Linear-Regression with multiple variables.
+* same steps with adding more features and modify hypothesis, cost function and gradient descent to fit the multiple features.
